@@ -1,6 +1,4 @@
-Ayy gotcha — let’s build on **your core keybinds** and expand with some **sensible mappings** that complement them, based on what most devs / power users tend to do. The goal: **ergonomic**, **non-conflicting**, and **muscle-memory-friendly** binds that vibe with your existing flow.
 
----
 
 ## 🎮 Your Core Keybinds (Re-Reminder)
 
